@@ -28,7 +28,7 @@
 5. 跟读练习：模仿 VOA 慢速英语节奏
 
 学习笔记和词表：
-GitHub: TODO_REPO_URL
+GitHub: https://github.com/bob798/voa-learning-english-bilibili
 
 Source:
 - VOA article: https://learningenglish.voanews.com/a/6654462.html
