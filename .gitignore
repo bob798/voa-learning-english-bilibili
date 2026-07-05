@@ -1,0 +1,11 @@
+# media files downloaded locally, not committed
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+
+# generated scratch/html downloads
+*.html
+frames/
+.DS_Store
